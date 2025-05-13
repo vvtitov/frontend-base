@@ -1,8 +1,8 @@
-# React + TypeScript + Vite + TailwindCSS + ShadcnUI
+# Vite + React + TypeScript + TailwindCSS + ShadcnUI
 
 This template provides a minimal setup to get React + TypeScript + TailwindCSS + ShadcnUI working in Vite with HMR and some ESLint rules.
 
-## Expanding the ESLint configuration
+## ESLint configuration
 
 The next configuration is implemented in the `eslint.config.js` file:
 
